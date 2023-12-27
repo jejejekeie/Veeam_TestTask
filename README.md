@@ -17,5 +17,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/jejejekeie/Veeam_TestTask.git
 cd Veeam_TestTask
+```
 
+To run the program, run this on terminal: 
+```
 python FolderSyncer.py <source_folder> <replica_folder> <sync_interval_in_seconds> <log_file_path> [options]
+```
